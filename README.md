@@ -18,6 +18,7 @@ This sample showcases:
 
 <img src="screenshots/screenshots.png"/>
 
+
 ## Features
 
 Sunflower's [plant details screen](app/src/main/java/com/google/samples/apps/sunflower/PlantDetailFragment.kt)

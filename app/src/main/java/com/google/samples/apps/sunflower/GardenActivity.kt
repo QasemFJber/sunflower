@@ -40,6 +40,7 @@ class GardenActivity : AppCompatActivity() {
 
     private val viewModel: PlantListViewModel by viewModels()
 
+    val test = "test";
     private val menuProvider = object : MenuProvider {
         override fun onCreateMenu(menu: Menu, menuInflater: MenuInflater) {
             menuInflater.inflate(R.menu.menu_plant_list, menu)
